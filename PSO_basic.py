@@ -1,3 +1,7 @@
+"""
+A basic implementation of Particle Swarm Optimization (PSO) algorithm for optimization problems.
+Author: Nithish K Gnani
+"""
 import numpy as np
 
 # Defining a sample test function
